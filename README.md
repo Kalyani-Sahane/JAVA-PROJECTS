@@ -28,3 +28,4 @@ Each project is contained in its own directory within this repository. To run an
 
 Contributions are welcome! If you have any improvements or new project ideas, feel free to fork this repository, make your changes, and submit a pull request. Please ensure that your code follows the project's coding standards and includes appropriate documentation.
 </div>
+JAVA-PROJECTS
